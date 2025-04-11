@@ -1,4 +1,4 @@
-<h1 align="center">🎉 JunyFest</h1>
+<h1 align="center">Benvinguts a JunyFest</h1>
 
 <p align="center">
   <img src="./../assets/logo.png" width="180" alt="Logo de JunyFest" />
