@@ -1,7 +1,7 @@
 <h1 align="center">🎉 JunyFest</h1>
 
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="Logo de JunyFest" />
+  <img src="./../assets/logo.png" width="180" alt="Logo de JunyFest" />
 </p>
 
 <p align="center">
